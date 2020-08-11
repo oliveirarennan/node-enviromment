@@ -1,10 +1,8 @@
 /**
  * TODO start the application here
  */
-import path from 'path';
 
-console.log(path.dirname);
-console.log('Hello World 2');
+console.log('Hello World');
 
 const arr = ['Foo', 'Barr'];
 
